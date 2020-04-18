@@ -1,6 +1,6 @@
 # 基础镜像 WEB Httpd PHP 7.4
 
-- L: Linux alpine
+- L: Linux
 - A: Apache Httpd
 - P: PHP 7.4
 
